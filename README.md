@@ -26,10 +26,29 @@
   <summary>📊GitHub Stats</summary>
   <br />
   
-  ![](https://github-readme-stats.vercel.app/api?username=viniciuswz&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=viniciuswz&theme=radical&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuswz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  <a href="https://github.com/viniciuswz">
+    <img width=495 height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=viniciuswz&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/viniciuswz">
+    <img width=495 height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuswz&theme=radical&include_all_commits=true&count_private=false&layout=compact&&hide_border=true" />
+  </a>
+  <p>&nbsp;</p>
+
+  <p align="center">
+    <a href="https://github.com/viniciuswz">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=viniciuswz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    </a>
+  </p >
+  <p align="center">
+     <a href="https://github.com/viniciuswz">
+      <img src="https://github.com/viniciuswz/viniciuswz/blob/output/github-contribution-grid-snake.svg"/>
+    </a>
+  </p >
+
 </details>
+
+
 
 <details>
   <summary>🏆GitHub Trophies</summary>
