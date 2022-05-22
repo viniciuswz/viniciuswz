@@ -28,10 +28,10 @@
   
 
   <a href="https://github.com/viniciuswz">
-    <img width=470 height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=viniciuswz&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width=470 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=viniciuswz&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/viniciuswz">
-    <img width=470 height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuswz&theme=radical&include_all_commits=true&count_private=false&layout=compact&&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuswz&theme=radical&include_all_commits=true&count_private=false&layout=compact&&hide_border=true" />
   </a>
   <p>&nbsp;</p>
 
